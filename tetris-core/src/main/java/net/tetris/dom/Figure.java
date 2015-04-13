@@ -68,7 +68,7 @@ public interface Figure {
     }
 
     int getNewYearPresent();
-
+	//comment to commit
     int getLeft();
 
     int getRight();
